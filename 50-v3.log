@@ -1,0 +1,58 @@
+2020-02-20 16:35:12,891 >>> start Marvin weights train with following arguments
+2020-02-20 16:35:12,892 >>> pool: 4 | seed: 24 | print: 1 | epochs: 50 | sigma: 0.1 | alpha: 0.03 | decay: 0.999 | pop: 42 | play_steps: 2424 | train_steps: 2424 | layer: [24, 16] | log: 50-v3.log | load: None | save: 50-v3.pkl | train: False | walk: False | norm: False | detail: True | silent: True | render: False | capture: False | current: False
+2020-02-20 16:35:13,590 >>> train epoch 1 - time 0:00:00.698389 - reward -111.5800829678199 - timesteps 72 of 2424
+2020-02-20 16:35:14,411 >>> train epoch 2 - time 0:00:00.820653 - reward -108.61138592912451 - timesteps 72 of 2424
+2020-02-20 16:35:15,320 >>> train epoch 3 - time 0:00:00.908591 - reward -109.67495418636969 - timesteps 76 of 2424
+2020-02-20 16:35:16,578 >>> train epoch 4 - time 0:00:01.257851 - reward -103.93944858372623 - timesteps 123 of 2424
+2020-02-20 16:35:17,714 >>> train epoch 5 - time 0:00:01.135850 - reward -111.01076347220341 - timesteps 118 of 2424
+2020-02-20 16:35:18,839 >>> train epoch 6 - time 0:00:01.125221 - reward -104.70342158577934 - timesteps 110 of 2424
+2020-02-20 16:35:19,864 >>> train epoch 7 - time 0:00:01.024753 - reward -104.04895321115467 - timesteps 86 of 2424
+2020-02-20 16:35:21,029 >>> train epoch 8 - time 0:00:01.164295 - reward -107.65259965446141 - timesteps 103 of 2424
+2020-02-20 16:35:22,091 >>> train epoch 9 - time 0:00:01.061712 - reward -108.57160898922339 - timesteps 109 of 2424
+2020-02-20 16:35:23,252 >>> train epoch 10 - time 0:00:01.160999 - reward -109.48154041122595 - timesteps 108 of 2424
+2020-02-20 16:35:24,293 >>> train epoch 11 - time 0:00:01.041214 - reward -99.08083668784924 - timesteps 144 of 2424
+2020-02-20 16:35:25,384 >>> train epoch 12 - time 0:00:01.090916 - reward -97.78873212534563 - timesteps 136 of 2424
+2020-02-20 16:35:26,573 >>> train epoch 13 - time 0:00:01.188441 - reward -106.6243607289805 - timesteps 106 of 2424
+2020-02-20 16:35:27,800 >>> train epoch 14 - time 0:00:01.227681 - reward -106.39770014784347 - timesteps 110 of 2424
+2020-02-20 16:35:28,920 >>> train epoch 15 - time 0:00:01.119751 - reward -98.99596505456906 - timesteps 161 of 2424
+2020-02-20 16:35:30,116 >>> train epoch 16 - time 0:00:01.195874 - reward -99.84449311931462 - timesteps 182 of 2424
+2020-02-20 16:35:31,365 >>> train epoch 17 - time 0:00:01.248839 - reward -103.88653527124102 - timesteps 114 of 2424
+2020-02-20 16:35:32,770 >>> train epoch 18 - time 0:00:01.404266 - reward -83.68555166913438 - timesteps 211 of 2424
+2020-02-20 16:35:36,110 >>> train epoch 19 - time 0:00:03.339960 - reward -85.39586755062315 - timesteps 218 of 2424
+2020-02-20 16:35:37,755 >>> train epoch 20 - time 0:00:01.645433 - reward -75.47370443522081 - timesteps 396 of 2424
+2020-02-20 16:35:40,851 >>> train epoch 21 - time 0:00:03.095480 - reward -48.0183823805433 - timesteps 490 of 2424
+2020-02-20 16:35:43,149 >>> train epoch 22 - time 0:00:02.298347 - reward -50.86855558892635 - timesteps 488 of 2424
+2020-02-20 16:35:45,032 >>> train epoch 23 - time 0:00:01.882189 - reward -102.97700978166836 - timesteps 213 of 2424
+2020-02-20 16:35:48,660 >>> train epoch 24 - time 0:00:03.628120 - reward -94.93221641783846 - timesteps 249 of 2424
+2020-02-20 16:35:53,975 >>> train epoch 25 - time 0:00:05.314858 - reward 89.91084538587096 - timesteps 2424 of 2424
+2020-02-20 16:36:01,931 >>> train epoch 26 - time 0:00:07.956316 - reward 129.8481250499054 - timesteps 2424 of 2424
+2020-02-20 16:36:12,126 >>> train epoch 27 - time 0:00:10.194212 - reward -9.437548892426932 - timesteps 1464 of 2424
+2020-02-20 16:36:24,550 >>> train epoch 28 - time 0:00:12.424006 - reward 75.42404334601622 - timesteps 2424 of 2424
+2020-02-20 16:36:37,834 >>> train epoch 29 - time 0:00:13.283524 - reward 141.99647301263735 - timesteps 2306 of 2424
+2020-02-20 16:36:51,515 >>> train epoch 30 - time 0:00:13.681685 - reward 111.17961826282296 - timesteps 2424 of 2424
+2020-02-20 16:37:06,558 >>> train epoch 31 - time 0:00:15.042241 - reward 118.26363758200617 - timesteps 2424 of 2424
+2020-02-20 16:37:20,941 >>> train epoch 32 - time 0:00:14.383185 - reward 97.68470554785137 - timesteps 2424 of 2424
+2020-02-20 16:37:36,977 >>> train epoch 33 - time 0:00:16.034542 - reward 130.2829960842816 - timesteps 2394 of 2424
+2020-02-20 16:37:53,058 >>> train epoch 34 - time 0:00:16.080575 - reward 144.1087801762719 - timesteps 2244 of 2424
+2020-02-20 16:38:07,275 >>> train epoch 35 - time 0:00:14.216703 - reward 94.649903053652 - timesteps 2424 of 2424
+2020-02-20 16:38:23,032 >>> train epoch 36 - time 0:00:15.757024 - reward 134.71255046632078 - timesteps 2383 of 2424
+2020-02-20 16:38:41,225 >>> train epoch 37 - time 0:00:18.193590 - reward 180.4872070683041 - timesteps 1928 of 2424
+2020-02-20 16:38:53,022 >>> train epoch 38 - time 0:00:11.796585 - reward 39.05400250188882 - timesteps 2200 of 2424
+2020-02-20 16:39:10,345 >>> train epoch 39 - time 0:00:17.322413 - reward 166.94640944155282 - timesteps 2030 of 2424
+2020-02-20 16:39:22,492 >>> train epoch 40 - time 0:00:12.146679 - reward 156.43324549272077 - timesteps 2234 of 2424
+2020-02-20 16:39:38,867 >>> train epoch 41 - time 0:00:16.375693 - reward 166.14885455481033 - timesteps 2183 of 2424
+2020-02-20 16:39:55,252 >>> train epoch 42 - time 0:00:16.384210 - reward -29.12920993885257 - timesteps 714 of 2424
+2020-02-20 16:40:07,494 >>> train epoch 43 - time 0:00:12.241862 - reward 148.598293445309 - timesteps 2351 of 2424
+2020-02-20 16:40:24,842 >>> train epoch 44 - time 0:00:17.348284 - reward 135.40110339598684 - timesteps 2424 of 2424
+2020-02-20 16:40:45,387 >>> train epoch 45 - time 0:00:20.544909 - reward 146.0921743572648 - timesteps 2354 of 2424
+2020-02-20 16:41:04,731 >>> train epoch 46 - time 0:00:19.343349 - reward 180.60419737498418 - timesteps 1979 of 2424
+2020-02-20 16:41:19,667 >>> train epoch 47 - time 0:00:14.936099 - reward 140.5096356383654 - timesteps 2424 of 2424
+2020-02-20 16:41:37,629 >>> train epoch 48 - time 0:00:17.962400 - reward 165.76354333597843 - timesteps 2177 of 2424
+2020-02-20 16:41:53,468 >>> train epoch 49 - time 0:00:15.838335 - reward 119.04153712861729 - timesteps 2424 of 2424
+2020-02-20 16:42:10,453 >>> train epoch 50 - time 0:00:16.984605 - reward 162.0726418671909 - timesteps 2167 of 2424
+2020-02-20 16:42:10,453 >>> end Marvin weights train after 50 epoch(-s) with final reward 162.0726418671909
+2020-02-20 16:42:10,453 >>> Marvin parameters alpha 0.028536168845910936, weights layers [24, 24, 16, 4], multiprocessing 4
+2020-02-20 16:42:10,526 >>> train time 0:06:57.735385
+2020-02-20 16:42:10,544 >>> start Marvin play with 2424 max steps
+2020-02-20 16:42:11,770 >>> end Marvin play after 1987 steps with total reward 177.18605124095757 and done status True
+2020-02-20 16:42:11,770 >>> play time 0:00:01.244105

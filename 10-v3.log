@@ -1,0 +1,18 @@
+2020-02-20 16:33:44,495 >>> start Marvin weights train with following arguments
+2020-02-20 16:33:44,495 >>> pool: 4 | seed: 24 | print: 1 | epochs: 10 | sigma: 0.1 | alpha: 0.03 | decay: 0.999 | pop: 42 | play_steps: 2424 | train_steps: 2424 | layer: [24, 16] | log: 10-v3.log | load: None | save: 10-v3.pkl | train: False | walk: False | norm: False | detail: True | silent: True | render: False | capture: False | current: False
+2020-02-20 16:33:45,311 >>> train epoch 1 - time 0:00:00.815279 - reward -109.25233873059688 - timesteps 70 of 2424
+2020-02-20 16:33:46,103 >>> train epoch 2 - time 0:00:00.792222 - reward -109.17821788099229 - timesteps 72 of 2424
+2020-02-20 16:33:46,976 >>> train epoch 3 - time 0:00:00.872359 - reward -110.56914059802237 - timesteps 74 of 2424
+2020-02-20 16:33:47,955 >>> train epoch 4 - time 0:00:00.979652 - reward -108.88790556028053 - timesteps 88 of 2424
+2020-02-20 16:33:49,435 >>> train epoch 5 - time 0:00:01.479641 - reward -105.23174183959605 - timesteps 186 of 2424
+2020-02-20 16:33:50,608 >>> train epoch 6 - time 0:00:01.173124 - reward -101.5570015823161 - timesteps 146 of 2424
+2020-02-20 16:33:52,106 >>> train epoch 7 - time 0:00:01.497358 - reward -114.32133918191218 - timesteps 226 of 2424
+2020-02-20 16:33:53,342 >>> train epoch 8 - time 0:00:01.235786 - reward -103.15367801705608 - timesteps 149 of 2424
+2020-02-20 16:33:54,797 >>> train epoch 9 - time 0:00:01.455074 - reward -108.0366476736844 - timesteps 172 of 2424
+2020-02-20 16:33:55,932 >>> train epoch 10 - time 0:00:01.134862 - reward -97.34190995835661 - timesteps 181 of 2424
+2020-02-20 16:33:55,932 >>> end Marvin weights train after 10 epoch(-s) with final reward -97.34190995835661
+2020-02-20 16:33:55,932 >>> Marvin parameters alpha 0.029701346406292437, weights layers [24, 24, 16, 4], multiprocessing 4
+2020-02-20 16:33:55,979 >>> train time 0:00:11.594339
+2020-02-20 16:33:55,996 >>> start Marvin play with 2424 max steps
+2020-02-20 16:33:56,112 >>> end Marvin play after 230 steps with total reward -113.99035410842069 and done status True
+2020-02-20 16:33:56,113 >>> play time 0:00:00.133821

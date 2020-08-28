@@ -1,0 +1,9 @@
+2020-02-20 16:52:40,422 >>> start Marvin weights train with following arguments
+2020-02-20 16:52:40,423 >>> pool: 4 | seed: 24 | print: 1 | epochs: 1 | sigma: 0.1 | alpha: 0.03 | decay: 0.999 | pop: 42 | play_steps: 2424 | train_steps: 2424 | layer: [24, 16] | log: 1-v3.log | load: None | save: 1-v3.pkl | train: False | walk: False | norm: False | detail: True | silent: True | render: False | capture: False | current: False
+2020-02-20 16:52:41,099 >>> train epoch 1 - time 0:00:00.675950 - reward -112.54498010838464 - timesteps 66 of 2424
+2020-02-20 16:52:41,099 >>> end Marvin weights train after 1 epoch(-s) with final reward -112.54498010838464
+2020-02-20 16:52:41,099 >>> Marvin parameters alpha 0.02997, weights layers [24, 24, 16, 4], multiprocessing 4
+2020-02-20 16:52:41,146 >>> train time 0:00:00.820012
+2020-02-20 16:52:41,164 >>> start Marvin play with 2424 max steps
+2020-02-20 16:52:41,198 >>> end Marvin play after 68 steps with total reward -114.15976021375072 and done status True
+2020-02-20 16:52:41,198 >>> play time 0:00:00.051650
